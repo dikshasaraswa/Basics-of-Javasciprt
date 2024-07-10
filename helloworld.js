@@ -1,0 +1,22 @@
+// console.log("hello World"); 
+// console.log(3+4);
+// console.log("3+4");
+// //we dont define datatype in js
+// a=19;
+// console.log(a+3);
+// x="diksha";
+// console.log(x);
+// a=20.7;
+// console.log(a);
+b=5;
+console.log(b);
+b=b++;
+console.log(b);
+b++;
+console.log(b);
+a=5;
+b=6;
+c=7;
+console.log(a,b,c);
+age=24;
+console.log("age is",age);
